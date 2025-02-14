@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bossdeb
 - 👀 I’m interested in VUE js
-- 😄 Pronouns: BOSSSERX
+
 - ⚡ Fun fact: ...
 
 <!---
